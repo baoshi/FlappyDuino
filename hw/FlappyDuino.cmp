@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 3/21/2014 12:41:23 PM
+
+BeginCmp
+TimeStamp = /532BC1E8;
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = C1V7;
+EndCmp
+
+BeginCmp
+TimeStamp = /532925B9;
+Reference = CON1;
+ValeurCmp = USB-MINI-B;
+IdModule  = USB_MINI_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /532BC03F;
+Reference = CON2;
+ValeurCmp = GP2Y0A21;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53292DE9;
+Reference = DISP1;
+ValeurCmp = HY_1.8_SPI;
+IdModule  = HY_1.8_SPI;
+EndCmp
+
+BeginCmp
+TimeStamp = /53292522;
+Reference = U1;
+ValeurCmp = ARDUINO_PRO_MINI;
+IdModule  = ARDUINO_PRO_MINI;
+EndCmp
+
+EndListe
