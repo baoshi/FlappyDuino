@@ -781,6 +781,10 @@ void game_start()
   tft.print("right side to");
   tft.setCursor(5, 49);
   tft.print("start ---->");
+  tft.setCursor(5, 105);
+  tft.print("Visit me:");
+  tft.setCursor(5, 115);
+  tft.print("http://www.ba0sh1.com");
 
   tft.setTextSize(3);
   tft.setTextColor(ST7735_WHITE, SKY_COLOR);
